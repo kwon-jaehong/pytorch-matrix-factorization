@@ -5,3 +5,9 @@ FM (matrix factorization) 모델 pytorch 튜토리얼
 
 https://github.com/doheelab/NCF/blob/master/MF.py
 
+https://eda-ai-lab.tistory.com/85
+
+https://www.youtube.com/watch?v=LJX5hdw-zUI&t=39s
+
+
+데이터셋 : wget http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
