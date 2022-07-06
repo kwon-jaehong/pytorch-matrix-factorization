@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=LJX5hdw-zUI&t=39s
 
 
 데이터셋 : wget http://files.grouplens.org/datasets/movielens/ml-latest-small.zip
+
+-----------
+맨밑에 결과... 해봤자 36%
+https://www.kaggle.com/code/texasdave/movie-rating-predictor-movielens-dataset/notebook
